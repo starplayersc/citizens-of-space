@@ -15,7 +15,7 @@ Hosted via GitHub Pages: [https://starplayersc.github.io/citizens-of-space](http
 ## Structure
 
 ```
-public/
+docs/
 └── index.html   # The status page
 ```
 
